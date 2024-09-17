@@ -3,3 +3,6 @@
 	url = https://github.com/Karthikeyan1411/Connect-4.git
 [submodule ".\\Task_4_Connect_4\\connect-four\\"]
 	url = https://github.com/Karthikeyan1411/Internpe.git
+[submodule "Task_4_Connect_4/Connect-4"]
+	path = Task_4_Connect_4/Connect-4
+	url = https://github.com/Karthikeyan1411/Connect-4.git
