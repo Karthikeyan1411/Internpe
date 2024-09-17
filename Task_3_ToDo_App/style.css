@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+/* background image from bgjar */
+body{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1940' height='1080' preserveAspectRatio='none' viewBox='0 0 1940 1080'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1474%26quot%3b)' fill='none'%3e%3crect width='1940' height='1080' x='0' y='0' fill='url(%26quot%3b%23SvgjsLinearGradient1475%26quot%3b)'%3e%3c/rect%3e%3cpath d='M2004.666666666667 1080L0 1080 L0 374.46Q149.48 362.28%2c 161.66666666666669 511.76Q196.46 384.89%2c 323.33333333333337 419.68Q358.77 293.45%2c 485.00000000000006 328.89Q540.06 286.95%2c 582 342Q625.43 223.77%2c 743.6666666666667 267.2Q780.21 206.75%2c 840.6666666666667 243.29Q907.89 213.51%2c 937.6666666666667 280.73Q980.25 226.31%2c 1034.6666666666667 268.89Q1059.01 196.23%2c 1131.6666666666667 220.57Q1195.6 187.5%2c 1228.6666666666667 251.43Q1297.7 223.46%2c 1325.6666666666667 292.49Q1377.02 182.17%2c 1487.3333333333335 233.52Q1558.48 207.67%2c 1584.3333333333335 278.81Q1679.28 212.09%2c 1746.0000000000002 307.04Q1795.2 194.57%2c 1907.666666666667 243.77Q1964.29 203.39%2c 2004.666666666667 260.01z' fill='%23182f5d'%3e%3c/path%3e%3cpath d='M1972.3333333333337 1080L0 1080 L0 665.42Q114.49 618.24%2c 161.66666666666669 732.73Q182.69 656.75%2c 258.6666666666667 677.77Q344.66 602.1%2c 420.33333333333337 688.09Q474.18 644.93%2c 517.3333333333334 698.78Q520.6 605.05%2c 614.3333333333334 608.32Q625.95 458.27%2c 776 469.89Q867.41 399.63%2c 937.6666666666667 491.04Q1049.37 441.07%2c 1099.3333333333335 552.77Q1123.75 415.52%2c 1261.0000000000002 439.93Q1320.55 402.48%2c 1358.0000000000002 462.02Q1462.48 404.83%2c 1519.666666666667 509.31Q1533.27 425.91%2c 1616.666666666667 439.51Q1717.35 378.53%2c 1778.3333333333337 479.21Q1905.96 509.84%2c 1875.3333333333337 637.46Q1966.25 631.38%2c 1972.3333333333337 722.3z' fill='%2325467d'%3e%3c/path%3e%3cpath d='M2004.6666666666672 1080L0 1080 L0 873.37Q60.34 772.04%2c 161.66666666666669 832.38Q233.48 742.53%2c 323.33333333333337 814.34Q427.99 757.33%2c 485.00000000000006 861.99Q552.24 767.57%2c 646.6666666666667 834.81Q704.5 730.97%2c 808.3333333333335 788.8Q853.56 672.36%2c 970.0000000000002 717.59Q1035.07 621%2c 1131.666666666667 686.07Q1247.2 639.94%2c 1293.3333333333337 755.47Q1353.34 653.81%2c 1455.0000000000005 713.81Q1509.01 670.82%2c 1552.0000000000005 724.82Q1667.99 679.14%2c 1713.6666666666672 795.13Q1823.46 807.92%2c 1810.6666666666672 917.72Q1760.87 770.92%2c 1907.6666666666672 721.13Q1942.4 658.87%2c 2004.6666666666672 693.6z' fill='%23356cb1'%3e%3c/path%3e%3cpath d='M2037.0000000000005 1080L0 1080 L0 998.49Q52.17 889%2c 161.66666666666669 941.17Q215.69 833.53%2c 323.33333333333337 887.55Q366.81 834.03%2c 420.33333333333337 877.51Q502.99 863.17%2c 517.3333333333334 945.83Q654.41 985.9%2c 614.3333333333334 1122.98Q597.17 944.15%2c 776 926.99Q932.25 986.24%2c 873 1142.5Q823.73 996.23%2c 970 946.96Q1023.81 839.11%2c 1131.6666666666667 892.92Q1227.1 826.68%2c 1293.3333333333335 922.11Q1429.37 896.48%2c 1455.0000000000002 1032.52Q1598.69 1014.55%2c 1616.666666666667 1158.24Q1625.06 1004.97%2c 1778.3333333333337 1013.36Q1776.39 914.41%2c 1875.3333333333337 912.47Q1948.43 823.9%2c 2037.0000000000005 896.99z' fill='white'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1474'%3e%3crect width='1940' height='1080' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='11.08%25' y1='119.91%25' x2='88.92%25' y2='-19.91%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1475'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='%2300459e' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, rgb(35, 33, 60), rgb(108, 12, 199));
+    mix-blend-mode: color-dodge;
+    padding: 10px;
+}
+.todo-app{
+    width: 100%;
+    max-width: 540px;
+    background: rgb(179, 170, 184);
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 20px;
+    box-shadow: 7px 7px 5px black;
+    transition: all 2s ease;
+    background-size: 200% auto;
+}
+.todo-app:hover{
+    animation: rotate 0.7s ease-in-out both, shine 5s linear infinite;;
+}
+@keyframes rotate {
+    0%{
+        transform: rotate(0deg) translate3d(0, 0, 0);
+    }
+    25%{
+        transform: rotate(1deg) translate3d(0, 0, 0);
+    }
+    50%{
+        transform: rotate(-1deg) translate3d(0, 0, 0);
+    }
+    75%{
+        transform: rotate(1deg) translate3d(0, 0, 0);
+    }
+    100%{
+        transform: rotate(0deg) translate3d(0, 0, 0);
+    }
+}
+.todo-app h2{
+    color: #002765;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    background: transparent;
+}
+.todo-app h2 img{
+    width: 100px;
+    margin-left: 10px;
+    background: none;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #d4c4db;
+    border-radius: 30px;
+    padding-left: 20px;
+    margin-bottom: 25px;
+}
+input{
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 10px;
+    font-weight: 14px;
+    color: #002765;
+    font-size: 16px;
+}
+button{
+    border: none;
+    outline: none;
+    padding: 16px 50px;
+    background: #8c5d57;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 40px;
+}
+button:hover{
+    background: rgb(73, 169, 73);
+    transition: transform 0.5s ease;
+    transform: scale(1.08);
+}
+ul li{
+    list-style: none;
+    font-size: 17px;
+    padding: 12px 8px 12px 50px;
+    user-select: none;
+    cursor: pointer;
+    position: relative;
+    background: transparent;
+}
+ul li::before{
+    content: "";
+    position: absolute;
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    background: url("images/unchecked.jpg") center center/cover;
+    top: 8px;
+    left: 8px;
+}
+ul li.checked{
+    color: #555;
+    text-decoration: line-through;
+}
+ul li.checked::before{
+    background-image: url("images/checked.avif");
+}
+ul li span{
+    position: absolute;
+    right: 0;
+    top: 5px;
+    width: 40px;
+    height: 40px;
+    font-size: 22px;
+    color: #555;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+}
+ul li span:hover{
+    background: rgb(73, 169, 73);
+    transition: transform 0.5s ease;
+    transform: scale(1.08);
+}
